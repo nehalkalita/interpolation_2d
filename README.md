@@ -1,5 +1,7 @@
 # Interpolation of 2D data
 
+![alt text](sample_output.png)
+
 Program requires a CSV file as input where 
 
 empty spaces are to be mentioned with 'characters' or 'symbols' 
