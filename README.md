@@ -1,6 +1,6 @@
 # Interpolation of 2D data
 
-Program requires a CSV file where 
+Program requires a CSV file as input where 
 
 empty spaces are to be mentioned with 'characters' or 'symbols' 
 
