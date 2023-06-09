@@ -10,5 +10,5 @@ whereas non-empty spaces with 'integer' or 'decimal' values.
 
 
 
-Logic implemented is mentioned in the following paper:
+Logic implemented is explained in the following paper:
 [https://ieeexplore.ieee.org/document/8777680]
